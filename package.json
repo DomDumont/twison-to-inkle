@@ -1,0 +1,15 @@
+{
+  "name": "twison-to-inkle",
+  "version": "1.0.0",
+  "description": "twison to inkle converter",
+  "main": "./bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  
+  },
+  "author": "DomDom",
+  "license": "MIT",
+  "bin": {
+    "hello": "./bin/index.js"
+  }
+}
